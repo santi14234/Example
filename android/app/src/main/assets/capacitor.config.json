@@ -1,0 +1,10 @@
+{
+	"appId": "com.soundalive.universal",
+	"appName": "SoundAlive Lite",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"androidScheme": "http",
+		"cleartext": true
+	}
+}
